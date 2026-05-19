@@ -1,0 +1,15 @@
+{
+	"name": "vkdatafactoryproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19ea01ee-a9a3-4a40-be5f-4575b305d3cb",
+		"tenantId": "1d35550e-784d-44b4-878f-53ad8b2c3204"
+	}
+}
